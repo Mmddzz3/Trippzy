@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Trippzy</string>
+    <string name="trippzy">Trippzy</string>
+    <string name="travel_with_us">Travel with us!</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="to_do_list">To-do List</string>
+    <string name="trip_notes">Trip Notes</string>
+    <string name="todo">TODO</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="empty_add_new_notes_using">\"Empty ! Add New Notes using  + \"</string>
+    <string name="sample_text_description">Sample Text Description</string>
+    <string name="sample_note_title">Sample Note TItle</string>
+    <string name="created_7_31_2019">created : 7/31/2019</string>
+    <string name="_08_02">08:02</string>
+    <string name="textview">TextView</string>
+</resources>
